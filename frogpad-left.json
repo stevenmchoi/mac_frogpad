@@ -497,7 +497,7 @@
             },
             {
                 "from": {
-                    "key_code": "u"
+                    "key_code": "y"
                 },
                 "to": [ {
                     "key_code": "f"
@@ -506,7 +506,7 @@
             },
             {
                 "from": {
-                    "key_code": "y"
+                    "key_code": "t"
                 },
                 "to": [ {
                     "key_code": "a"
@@ -515,7 +515,7 @@
             },
             {
                 "from": {
-                    "key_code": "t"
+                    "key_code": "r"
                 },
                 "to": [ {
                     "key_code": "r"
@@ -524,7 +524,7 @@
             },
             {
                 "from": {
-                    "key_code": "r"
+                    "key_code": "e"
                 },
                 "to": [ {
                     "key_code": "w"
