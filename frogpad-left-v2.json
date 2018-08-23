@@ -1,7 +1,7 @@
 {
     "title": "Frogpad left",
     "rules": [{
-        "description": "frogpad remap for left hand by clark",
+        "description": "frogpad remap for left hand by stevenmchoi",
         "manipulators": [{
                 "from": {
                     "key_code": "spacebar",
@@ -514,34 +514,16 @@
             },
             {
                 "from": {
-                    "key_code": "u"
+                    "key_code": "q"
                 },
                 "to": [{
-                    "key_code": "f"
+                    "key_code": "p"
                 }],
                 "type": "basic"
             },
             {
                 "from": {
-                    "key_code": "y"
-                },
-                "to": [{
-                    "key_code": "a"
-                }],
-                "type": "basic"
-            },
-            {
-                "from": {
-                    "key_code": "t"
-                },
-                "to": [{
-                    "key_code": "r"
-                }],
-                "type": "basic"
-            },
-            {
-                "from": {
-                    "key_code": "r"
+                    "key_code": "w"
                 },
                 "to": [{
                     "key_code": "w"
@@ -553,40 +535,39 @@
                     "key_code": "e"
                 },
                 "to": [{
-                    "key_code": "p"
+                    "key_code": "r"
                 }],
                 "type": "basic"
             },
             {
                 "from": {
-                    "key_code": "h"
+                    "key_code": "r"
                 },
                 "to": [{
-                    "key_code": "o"
+                    "key_code": "a"
                 }],
                 "type": "basic"
             },
             {
                 "from": {
-                    "key_code": "g"
+                    "key_code": "t"
                 },
                 "to": [{
-                    "key_code": "e"
-                }],
-                "type": "basic"
-            },
-            {
-                "from": {
                     "key_code": "f"
-                },
-                "to": [{
-                    "key_code": "h"
                 }],
                 "type": "basic"
             },
             {
                 "from": {
+                    "key_code": "a"
+                },
+                "to": [{
                     "key_code": "d"
+                }],
+                "type": "basic"
+            }, {
+                "from": {
+                    "key_code": "s"
                 },
                 "to": [{
                     "key_code": "t"
@@ -595,37 +576,36 @@
             },
             {
                 "from": {
-                    "key_code": "s"
-                },
-                "to": [{
                     "key_code": "d"
+                },
+                "to": [{
+                    "key_code": "h"
                 }],
                 "type": "basic"
             },
             {
                 "from": {
-                    "key_code": "b"
+                    "key_code": "f"
                 },
                 "to": [{
-                    "key_code": "u"
+                    "key_code": "e"
+                }],
+                "type": "basic"
+            }, {
+                "from": {
+                    "key_code": "g"
+                },
+                "to": [{
+                    "key_code": "o"
                 }],
                 "type": "basic"
             },
             {
                 "from": {
-                    "key_code": "v"
+                    "key_code": "z"
                 },
                 "to": [{
-                    "key_code": "i"
-                }],
-                "type": "basic"
-            },
-            {
-                "from": {
-                    "key_code": "c"
-                },
-                "to": [{
-                    "key_code": "n"
+                    "key_code": "y"
                 }],
                 "type": "basic"
             },
@@ -640,10 +620,28 @@
             },
             {
                 "from": {
-                    "key_code": "z"
+                    "key_code": "c"
                 },
                 "to": [{
-                    "key_code": "y"
+                    "key_code": "n"
+                }],
+                "type": "basic"
+            },
+            {
+                "from": {
+                    "key_code": "v"
+                },
+                "to": [{
+                    "key_code": "i"
+                }],
+                "type": "basic"
+            },
+            {
+                "from": {
+                    "key_code": "b"
+                },
+                "to": [{
+                    "key_code": "u"
                 }],
                 "type": "basic"
             },

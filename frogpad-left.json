@@ -1,7 +1,7 @@
 {
     "title": "Frogpad left",
     "rules": [{
-        "description": "frogpad remap for left hand by stevenmchoi",
+        "description": "frogpad remap for left hand by clark",
         "manipulators": [{
                 "from": {
                     "key_code": "spacebar",
