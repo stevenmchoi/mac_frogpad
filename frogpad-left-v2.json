@@ -21,6 +21,23 @@
             },
             {
                 "from": {
+                    "key_code": "q",
+                    "modifiers": {
+                        "mandatory": [
+                            "right_control"
+                        ],
+                        "optional": [
+                            "any"
+                        ]
+                    }
+                },
+                "to": [{
+                    "key_code": "j"
+                }],
+                "type": "basic"
+            },
+            {
+                "from": {
                     "key_code": "w",
                     "modifiers": {
                         "mandatory": [
@@ -49,7 +66,7 @@
                     }
                 },
                 "to": [{
-                    "key_code": "j"
+                    "key_code": "b"
                 }],
                 "type": "basic"
             },
@@ -66,7 +83,7 @@
                     }
                 },
                 "to": [{
-                    "key_code": "m"
+                    "key_code": "quote"
                 }],
                 "type": "basic"
             },
@@ -83,7 +100,7 @@
                     }
                 },
                 "to": [{
-                    "key_code": "b"
+                    "key_code": "tab"
                 }],
                 "type": "basic"
             },
@@ -141,23 +158,6 @@
             {
                 "from": {
                     "key_code": "o",
-                    "modifiers": {
-                        "mandatory": [
-                            "right_control"
-                        ],
-                        "optional": [
-                            "any"
-                        ]
-                    }
-                },
-                "to": [{
-                    "key_code": "j"
-                }],
-                "type": "basic"
-            },
-            {
-                "from": {
-                    "key_code": "p",
                     "modifiers": {
                         "mandatory": [
                             "right_control"
@@ -322,40 +322,6 @@
                 },
                 "to": [{
                     "key_code": "a"
-                }],
-                "type": "basic"
-            },
-            {
-                "from": {
-                    "key_code": "left_option",
-                    "modifiers": {
-                        "mandatory": [
-                            "right_control"
-                        ],
-                        "optional": [
-                            "any"
-                        ]
-                    }
-                },
-                "to": [{
-                    "key_code": "period"
-                }],
-                "type": "basic"
-            },
-            {
-                "from": {
-                    "key_code": "left_gui",
-                    "modifiers": {
-                        "mandatory": [
-                            "right_control"
-                        ],
-                        "optional": [
-                            "any"
-                        ]
-                    }
-                },
-                "to": [{
-                    "key_code": "comma"
                 }],
                 "type": "basic"
             },
@@ -576,6 +542,39 @@
                 },
                 "to": [{
                     "key_code": "u"
+                }],
+                "type": "basic"
+            },
+            {
+                "from": {
+                    "key_code": "left_option",
+                    "modifiers": {
+                        "mandatory": [
+                            "right_control"
+                        ],
+                        "optional": [
+                            "any"
+                        ]
+                    }
+                },
+                "to": [{
+                    "key_code": "period"
+                }],
+                "type": "basic"
+            }, {
+                "from": {
+                    "key_code": "left_gui",
+                    "modifiers": {
+                        "mandatory": [
+                            "right_control"
+                        ],
+                        "optional": [
+                            "any"
+                        ]
+                    }
+                },
+                "to": [{
+                    "key_code": "comma"
                 }],
                 "type": "basic"
             },
