@@ -106,7 +106,7 @@
             },
             {
                 "from": {
-                    "key_code": "s",
+                    "key_code": "a",
                     "modifiers": {
                         "mandatory": [
                             "right_control"
@@ -123,7 +123,7 @@
             },
             {
                 "from": {
-                    "key_code": "d",
+                    "key_code": "s",
                     "modifiers": {
                         "mandatory": [
                             "right_control"
@@ -140,7 +140,7 @@
             },
             {
                 "from": {
-                    "key_code": "f",
+                    "key_code": "d",
                     "modifiers": {
                         "mandatory": [
                             "right_control"
@@ -157,7 +157,7 @@
             },
             {
                 "from": {
-                    "key_code": "g",
+                    "key_code": "f",
                     "modifiers": {
                         "mandatory": [
                             "right_control"
@@ -174,7 +174,7 @@
             },
             {
                 "from": {
-                    "key_code": "h",
+                    "key_code": "g",
                     "modifiers": {
                         "mandatory": [
                             "right_control"
@@ -186,40 +186,6 @@
                 },
                 "to": [{
                     "key_code": "q"
-                }],
-                "type": "basic"
-            },
-            {
-                "from": {
-                    "key_code": "j",
-                    "modifiers": {
-                        "mandatory": [
-                            "right_control"
-                        ],
-                        "optional": [
-                            "any"
-                        ]
-                    }
-                },
-                "to": [{
-                    "key_code": "l"
-                }],
-                "type": "basic"
-            },
-            {
-                "from": {
-                    "key_code": "semicolon",
-                    "modifiers": {
-                        "mandatory": [
-                            "right_control"
-                        ],
-                        "optional": [
-                            "any"
-                        ]
-                    }
-                },
-                "to": [{
-                    "key_code": "a"
                 }],
                 "type": "basic"
             },
