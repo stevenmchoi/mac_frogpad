@@ -565,7 +565,8 @@
                     "key_code": "d"
                 }],
                 "type": "basic"
-            }, {
+            },
+            {
                 "from": {
                     "key_code": "s"
                 },
@@ -591,7 +592,8 @@
                     "key_code": "e"
                 }],
                 "type": "basic"
-            }, {
+            },
+            {
                 "from": {
                     "key_code": "g"
                 },
