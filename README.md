@@ -2,25 +2,21 @@
 
 My own configuration of the one-handed keyboard [FrogPad](http://frogpad.com/) using the default keyboard
 
+- [Karabiner-Elements](https://pqrs.org/osx/karabiner/files/Karabiner-Elements-12.1.0.dmg)
+- [Download](karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/stevenmchoi/my_frogpad/master/frogpad-left-v2.json)
+
 - **NOTE**: _Only working on left hand configuration for now_
+
 - No capital letters available yet
+
   - See [Future Improvements](#differences-and-future-improvements) for more details
+
 - Go to http://frogpad.com/ for:
+
   - Right hand configuration
   - Windows "qwerty-frog"
   - Mac "qwerty-frog" for earlier macOS versions (10.11 and below)
   - Training game for practice!
-
-## Inspired by
-
-- Clark Mercer: https://github.com/clarkm
-- https://clarkm.com/frogpad-left.json
-- https://clarkm.com/frogpad-right.json
-
-### Downloads here:
-
-- <karabiner://karabiner/assets/complex_modifications/import?url=https://clarkm.com/frogpad-right.json>
-- <karabiner://karabiner/assets/complex_modifications/import?url=https://clarkm.com/frogpad-left.json>
 
 ## System requirements
 
@@ -30,7 +26,7 @@ My own configuration of the one-handed keyboard [FrogPad](http://frogpad.com/) u
 
 1. Download and install the app Karabiner-Elements (currently v12.1.0 as of 8/23/2018): https://pqrs.org/osx/karabiner/
 
-2. Download and import keymap by going to this link and opening it with Karabiner-Elements: <karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/stevenmchoi/my_frogpad/master/frogpad-left-v2.json>
+2. Download and import keymap by going to this link and opening it with Karabiner-Elements: [karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/stevenmchoi/my_frogpad/master/frogpad-left-v2.json](karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/stevenmchoi/my_frogpad/master/frogpad-left-v2.json)
 
 3. In Karabiner-Elements, go to "Preferences" > "Profiles" tab > "Add profile", name the profile, and click "Select".
 
@@ -113,6 +109,17 @@ My own configuration of the one-handed keyboard [FrogPad](http://frogpad.com/) u
 
   - Tap once for next keystroke
   - aka "GUI"/"Windows" key
+
+## Inspired by
+
+- Clark Mercer: https://github.com/clarkm
+- https://clarkm.com/frogpad-left.json
+- https://clarkm.com/frogpad-right.json
+
+### His downloads here:
+
+- [karabiner://karabiner/assets/complex_modifications/import?url=https://clarkm.com/frogpad-right.json](karabiner://karabiner/assets/complex_modifications/import?url=https://clarkm.com/frogpad-right.json)
+- [karabiner://karabiner/assets/complex_modifications/import?url=https://clarkm.com/frogpad-left.json](karabiner://karabiner/assets/complex_modifications/import?url=https://clarkm.com/frogpad-left.json)
 
 ## Other Resources
 
