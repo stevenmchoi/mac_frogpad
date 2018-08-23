@@ -442,22 +442,6 @@
 
             {
                 "from": {
-                    "key_code": "left_option",
-                    "modifiers": {
-                        "mandatory": [
-                            "right_control"
-                        ],
-                        "optional": [
-                            "any"
-                        ]
-                    }
-                },
-                "to": [{
-                    "key_code": "period"
-                }],
-                "type": "basic"
-            }, {
-                "from": {
                     "key_code": "left_gui",
                     "modifiers": {
                         "mandatory": [
@@ -470,6 +454,24 @@
                 },
                 "to": [{
                     "key_code": "comma"
+                }],
+                "type": "basic"
+            },
+
+            {
+                "from": {
+                    "key_code": "left_option",
+                    "modifiers": {
+                        "mandatory": [
+                            "right_control"
+                        ],
+                        "optional": [
+                            "any"
+                        ]
+                    }
+                },
+                "to": [{
+                    "key_code": "period"
                 }],
                 "type": "basic"
             },
