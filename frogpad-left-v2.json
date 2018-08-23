@@ -310,40 +310,6 @@
             },
             {
                 "from": {
-                    "key_code": "c",
-                    "modifiers": {
-                        "mandatory": [
-                            "right_control"
-                        ],
-                        "optional": [
-                            "any"
-                        ]
-                    }
-                },
-                "to": [{
-                    "key_code": "k"
-                }],
-                "type": "basic"
-            },
-            {
-                "from": {
-                    "key_code": "v",
-                    "modifiers": {
-                        "mandatory": [
-                            "right_control"
-                        ],
-                        "optional": [
-                            "any"
-                        ]
-                    }
-                },
-                "to": [{
-                    "key_code": "delete_forward"
-                }],
-                "type": "basic"
-            },
-            {
-                "from": {
                     "key_code": "semicolon",
                     "modifiers": {
                         "mandatory": [
@@ -395,75 +361,7 @@
             },
             {
                 "from": {
-                    "key_code": "b",
-                    "modifiers": {
-                        "mandatory": [
-                            "right_control"
-                        ],
-                        "optional": [
-                            "any"
-                        ]
-                    }
-                },
-                "to": [{
-                    "key_code": "delete_forward"
-                }],
-                "type": "basic"
-            },
-            {
-                "from": {
-                    "key_code": "v",
-                    "modifiers": {
-                        "mandatory": [
-                            "right_control"
-                        ],
-                        "optional": [
-                            "any"
-                        ]
-                    }
-                },
-                "to": [{
-                    "key_code": "delete_or_backspace"
-                }],
-                "type": "basic"
-            },
-            {
-                "from": {
-                    "key_code": "m",
-                    "modifiers": {
-                        "mandatory": [
-                            "right_control"
-                        ],
-                        "optional": [
-                            "any"
-                        ]
-                    }
-                },
-                "to": [{
-                    "key_code": "k"
-                }],
-                "type": "basic"
-            },
-            {
-                "from": {
-                    "key_code": "comma",
-                    "modifiers": {
-                        "mandatory": [
-                            "right_control"
-                        ],
-                        "optional": [
-                            "any"
-                        ]
-                    }
-                },
-                "to": [{
-                    "key_code": "g"
-                }],
-                "type": "basic"
-            },
-            {
-                "from": {
-                    "key_code": "period",
+                    "key_code": "z",
                     "modifiers": {
                         "mandatory": [
                             "right_control"
@@ -497,7 +395,7 @@
             },
             {
                 "from": {
-                    "key_code": "z",
+                    "key_code": "c",
                     "modifiers": {
                         "mandatory": [
                             "right_control"
@@ -508,7 +406,41 @@
                     }
                 },
                 "to": [{
-                    "key_code": "x"
+                    "key_code": "k"
+                }],
+                "type": "basic"
+            },
+            {
+                "from": {
+                    "key_code": "v",
+                    "modifiers": {
+                        "mandatory": [
+                            "right_control"
+                        ],
+                        "optional": [
+                            "any"
+                        ]
+                    }
+                },
+                "to": [{
+                    "key_code": "delete_or_backspace"
+                }],
+                "type": "basic"
+            },
+            {
+                "from": {
+                    "key_code": "b",
+                    "modifiers": {
+                        "mandatory": [
+                            "right_control"
+                        ],
+                        "optional": [
+                            "any"
+                        ]
+                    }
+                },
+                "to": [{
+                    "key_code": "delete_forward"
                 }],
                 "type": "basic"
             },
