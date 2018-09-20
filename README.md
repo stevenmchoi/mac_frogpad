@@ -40,6 +40,23 @@ using the default keyboard
 
 4. "Complex Modifications" tab > "Add rule", and enable "Frogpad left v2".
 
+## To update:
+
+1. In Karabiner-Elements > "Preferences" > "Profiles" tab, "Select" the Frogpad
+   profile.
+
+2. "Complex Modifications" tab > "Rules", "Remove" the Frogpad rule.
+
+3. Click "Add rule" and delete/trash "Frogpad left v2".
+
+4. In a browser, go to the same link and import:
+   <karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/stevenmchoi/my_frogpad/master/frogpad-left-v2.json>
+
+5. For "Frogpad left v2", click "Enable".
+
+6. Check one more time in the "Profiles" tab that it was added to your Frogpad
+   profile.
+
 ## Keymap (Left Hand)
 
 -   For "Primary" keys, simply type as normal with left hand.
