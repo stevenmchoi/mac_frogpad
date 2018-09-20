@@ -442,7 +442,7 @@
 
             {
                 "from": {
-                    "key_code": "left_gui",
+                    "key_code": "left_option",
                     "modifiers": {
                         "mandatory": [
                             "right_control"
@@ -460,7 +460,7 @@
 
             {
                 "from": {
-                    "key_code": "left_option",
+                    "key_code": "left_control",
                     "modifiers": {
                         "mandatory": [
                             "right_control"
@@ -478,7 +478,7 @@
 
             {
                 "from": {
-                    "key_code": "left_option"
+                    "key_code": "left_control"
                 },
                 "to": [{
                     "key_code": "return_or_enter"
