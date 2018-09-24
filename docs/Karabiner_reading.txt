@@ -1,0 +1,2 @@
+https://pqrs.org/osx/karabiner/document.html
+https://pqrs.org/osx/karabiner/json.html
